@@ -1,0 +1,7 @@
+{
+  "name": "Air Photo App with Widgets",
+  "description": "This app contains metadata for significant portions of the UCSB Library's aerial photography collection.  The tool can be used to view and download historic aerial imagery as full resolution .tiff files.  You will need a .tiff viewer such as Photoshop, MacOS Preview, or Windows Photo Viewer.",
+  "createdTime": 1506441332285,
+  "lastUpdated": 1507324458372,
+  "creator": "jessup@ucsb.edu_ucsb"
+}

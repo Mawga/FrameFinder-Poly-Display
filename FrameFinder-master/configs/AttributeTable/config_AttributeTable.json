@@ -1,0 +1,91 @@
+{
+  "layerInfos": [
+    {
+      "name": "Air Photo Centerpoints",
+      "id": "All_Flights_Merge_8454",
+      "layer": {
+        "url": "https://services1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/All_Flights_Merge/FeatureServer/0",
+        "fields": [
+          {
+            "show": false,
+            "name": "FID",
+            "alias": "FID"
+          },
+          {
+            "show": false,
+            "name": "OBJECTID",
+            "alias": "OBJECTID"
+          },
+          {
+            "show": false,
+            "name": "Held",
+            "alias": "Held"
+          },
+          {
+            "show": true,
+            "name": "FlightID",
+            "alias": "FlightID"
+          },
+          {
+            "show": true,
+            "name": "Frame",
+            "alias": "Frame"
+          },
+          {
+            "show": true,
+            "name": "BeginDate",
+            "alias": "BeginDate"
+          },
+          {
+            "show": true,
+            "name": "Scale",
+            "alias": "Scale"
+          },
+          {
+            "show": true,
+            "name": "Scan",
+            "alias": "Scan"
+          },
+          {
+            "show": false,
+            "name": "LatLongFli",
+            "alias": "LatLongFli"
+          },
+          {
+            "show": false,
+            "name": "Roll",
+            "alias": "Roll"
+          },
+          {
+            "show": false,
+            "name": "Nitrate",
+            "alias": "Nitrate"
+          },
+          {
+            "show": false,
+            "name": "Cut_Frame",
+            "alias": "Cut_Frame"
+          },
+          {
+            "show": false,
+            "name": "Print_",
+            "alias": "Print"
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true
+}
